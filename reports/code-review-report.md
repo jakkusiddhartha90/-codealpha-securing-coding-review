@@ -1,10 +1,10 @@
 # Secure Coding Review — Task 3
 
-**Student:** JAKKU SIDDHARTHA 
+**Student:** [JAKKU SIDDHARTHA]
 **Internship:** CodeAlpha — Month 1  
-**Review date:** [YYYY-MM-DD]  
+**Review date:**
 **Application:** Python / Flask local training application  
-**Environment:** [Windows/Kali + Python version + Flask version]
+**Environment:** Windows/Kali 
 
 ## 1. Scope and method
 Reviewed the training source in `app/insecure_app.py`, compared it with `app/secure_app.py`, ran Bandit static analysis, and executed automated tests. Testing was limited to a local application.
