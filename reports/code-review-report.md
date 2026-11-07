@@ -1,6 +1,6 @@
 # Secure Coding Review — Task 3
 
-**Student:** [JAKKU SIDDHARTHA]
+**Student:** JAKKU SIDDHARTHA
 **Internship:** CodeAlpha — Month 1  
 **Review date:**
 **Application:** Python / Flask local training application  
