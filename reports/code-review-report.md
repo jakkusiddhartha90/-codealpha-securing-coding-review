@@ -32,8 +32,8 @@ Fill this section only after running the commands:
 
 | Check | Command | Actual result |
 |---|---|---|
-| Python version | `python --version` | [Fill in] |
-| Unit tests | `python -m pytest -q` | [Fill in] |
+| Python version | `python --version` | python 3.15.2 |
+| Unit tests | `python -m pytest -q` | 6 passed in 0.45 sec |
 | Static analysis | `python -m bandit -c bandit.yaml -r app` | [Fill in] |
 | Safe app | `python app/secure_app.py` | [Fill in] |
 
