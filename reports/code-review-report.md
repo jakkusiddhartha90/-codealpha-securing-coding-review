@@ -1,4 +1,4 @@
-# Secure Coding Review — Task 3
+# Secure Coding Review — Task 2
 
 **Student:** JAKKU SIDDHARTHA
 **Internship:** CodeAlpha  
