@@ -28,7 +28,7 @@ Severity is a qualitative training assessment, not a formal CVSS score.
 
 ## 4. Verification
 
-Fill this section only after running the commands:
+
 
 | Check | Command | Actual result |
 |---|---|---|
