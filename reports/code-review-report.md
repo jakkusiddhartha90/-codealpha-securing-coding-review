@@ -34,8 +34,8 @@ Fill this section only after running the commands:
 |---|---|---|
 | Python version | `python --version` | python 3.15.2 |
 | Unit tests | `python -m pytest -q` | 6 passed in 0.45 sec |
-| Static analysis | `python -m bandit -c bandit.yaml -r app` | [Fill in] |
-| Safe app | `python app/secure_app.py` | [Fill in] |
+| Static analysis | `python -m bandit -c bandit.yaml -r app` | Completed successfully. Found 2 security issues in insecure_app.py: 1 Medium severity (SQL Injection – B608) and 1 High severity (Flask Debug Mode – B201). |
+| Safe app | `python app/secure_app.py` | Started successfully. Flask development server running at http://127.0.0.1:5000. Debug mode: OFF. |
 
 ## 5. Conclusion
 The review identified unsafe SQL construction, unsafe HTML rendering, debug-mode exposure, and insufficient input validation in the intentionally insecure sample. The safer implementation applies parameterized SQL, output escaping, input validation, and safer runtime settings. Attach genuine screenshots as evidence.
